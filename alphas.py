@@ -1,5 +1,5 @@
 '''
-This file collection of alphas.
+This file is collection of alphas.
 
 '''
 
